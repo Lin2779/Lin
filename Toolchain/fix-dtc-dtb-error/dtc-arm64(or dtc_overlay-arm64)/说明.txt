@@ -1,0 +1,7 @@
+如何编译
+解压dtc源码后，cd到源码目录 make 
+
+(此文件夹中arm64二进制基于arm64 lxc ubuntu-18.04 ,gcc-7.5编译)
+
+
+https://android.googlesource.com/platform/external/dtc/

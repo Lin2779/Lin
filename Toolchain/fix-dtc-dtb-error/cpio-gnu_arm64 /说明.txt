@@ -1,0 +1,6 @@
+源码
+https://mirrors.aliyun.com/gnu/cpio/?spm=a2c6h.25603864.0.0.121e1de8ru6vfu
+
+./configure && make
+
+

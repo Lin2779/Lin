@@ -1,0 +1,6 @@
+如何编译
+git clone https://github.com/tomxi1997/mkbootimg mkbootimg
+
+cd mkbootimg
+make
+
