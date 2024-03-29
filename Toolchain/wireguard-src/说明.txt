@@ -1,0 +1,5 @@
+http://sources.buildroot.net/wireguard-linux-compat/
+
+
+详情看
+net_wireguard_ add wireguard importer · nathanchance_marlin@4e4a527 (2024_2_7 10_09_40).html

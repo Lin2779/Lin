@@ -1,0 +1,10 @@
+
+minigzip
+https://android.googlesource.com/platform/external/zlib
+
+
+
+
+cd src && ./configure --static && make
+
+11以后改变了？不知道咋编译了
